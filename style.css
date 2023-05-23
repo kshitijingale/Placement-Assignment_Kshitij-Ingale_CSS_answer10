@@ -19,10 +19,6 @@ body {
   align-items: center;
 }
 
-.nav-container .drop-btn {
-  display: none;
-}
-
 .logo {
   height: 35px;
 }
